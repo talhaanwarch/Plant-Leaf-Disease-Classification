@@ -1,7 +1,14 @@
 # Plant-Leaf-Disease-Classification
 Classification of plant leaf diseases
+# Results
+Following resulr can be reprouduce with the notebook 
+[model_comparison_densenet121.ipynb](../master/model_comparison_densenet121.ipynb)
 
+![Model Accuracy](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/accuracy.svg)
 
+![Model Loss](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/loss.svg)
+
+# Datset Refrence
 dataset credit
 @article{rauf2019citrus,
   title={A citrus fruits and leaves dataset for detection and classification of citrus diseases through machine learning},
@@ -12,3 +19,7 @@ dataset credit
   year={2019},
   publisher={Elsevier}
 }
+
+# External Dataset link 
+https://www.kaggle.com/emmarex/plantdisease
+
