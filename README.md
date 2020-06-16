@@ -4,9 +4,9 @@ Classification of plant leaf diseases
 Following resulr can be reprouduce with the notebook 
 [model_comparison_densenet121.ipynb](../master/model_comparison_densenet121.ipynb)
 
-![Model Accuracy](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/accuracy.svg)
+![Model Accuracy](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/accuracy.png)
 
-![Model Loss](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/loss.svg)
+![Model Loss](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/loss.png)
 
 # Datset Refrence
 dataset credit
