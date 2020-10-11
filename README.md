@@ -7,9 +7,9 @@ Citrus plant fruits constitute a significant part of Pakistan's agricultural fru
 Following resulr can be reprouduce with the notebook 
 [model_comparison_densenet121.ipynb](../master/model_comparison_densenet121.ipynb)
 
-![Model Accuracy](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/accuracy.png)
+![Model Accuracy](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/tree/master/Results/accuracy.png)
 
-![Model Loss](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/master/Results/loss.png)
+![Model Loss](https://github.com/talhaanwarch/Plant-Leaf-Disease-Classification/blob/tree/master/Results/loss.png)
 
 # Paper citations
 ```
